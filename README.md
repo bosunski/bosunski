@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm 'Bosun Egberinde, a Software developer from Nigeria. I beleive the world can be impacted throught the things we build. That is why I like building and keep building. I currently intern as a Backend Developer at **@Shopify**. I created PHPSandbox - an Online IDE for PHP that lets you build PHP Projects in your browser to help Developers and new learners alike to test and prototype quickly.
+
 <!--
 **bosunski/bosunski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
